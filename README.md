@@ -1,6 +1,8 @@
-## book-service
+## Book-Service
 Book Service REST API
 
+## Author
+Arnab Mondal
 
 ### This Rest API supports the following endpoints
 
