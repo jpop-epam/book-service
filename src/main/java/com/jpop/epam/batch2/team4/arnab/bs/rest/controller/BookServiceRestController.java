@@ -1,4 +1,4 @@
-package com.jpop.epam.bs.rest.controller;
+package com.jpop.epam.batch2.team4.arnab.bs.rest.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.jpop.epam.bs.rest.model.Book;
-import com.jpop.epam.bs.rest.service.BookService;
+import com.jpop.epam.batch2.team4.arnab.bs.rest.model.Book;
+import com.jpop.epam.batch2.team4.arnab.bs.rest.service.BookService;
 
 @RestController
 public class BookServiceRestController {
