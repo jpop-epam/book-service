@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.stereotype.Service;
 
 import com.jpop.epam.batch2.team4.arnab.bs.rest.model.Book;
-import com.jpop.epam.common.service.exception.NotImplementedException;
+import com.jpop.epam.batch2.team4.arnab.common.service.exception.NotImplementedException;
 
 @Service
 public class BookService {
